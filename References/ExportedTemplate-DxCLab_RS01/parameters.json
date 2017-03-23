@@ -1,0 +1,33 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "extensions_Microsoft.Insights.VMDiagnosticsSettings_storageAccountName": {
+            "value": null
+        },
+        "extensions_Microsoft.Insights.VMDiagnosticsSettings_storageAccountKey": {
+            "value": null
+        },
+        "virtualMachines_dxcrtu16csa01_name": {
+            "value": null
+        },
+        "networkInterfaces_dxcrtu16csa01369_name": {
+            "value": null
+        },
+        "networkSecurityGroups_DxCLab_NSG01_name": {
+            "value": null
+        },
+        "publicIPAddresses_dxcrtu16csa01_ip_name": {
+            "value": null
+        },
+        "virtualNetworks_Dxc_Lab_vNet01_name": {
+            "value": null
+        },
+        "storageAccounts_dxclabrs01csasa01_name": {
+            "value": null
+        },
+        "extensions_Microsoft.Insights.VMDiagnosticsSettings_name": {
+            "value": null
+        }
+    }
+}
